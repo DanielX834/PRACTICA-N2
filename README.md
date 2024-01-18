@@ -43,4 +43,6 @@ void loop() {
 2. Instalar la libreria de **DHT sensor library for ESPx**.
    - Seleccionar pestaña de Librery Manager --> Add a New library --> Colocamos el nombre de libreria
 
-   img
+  ![](https://github.com/DanielX834/PRACTICA-N2/blob/main/Libreria.jpg?raw=true)
+
+  
