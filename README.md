@@ -44,5 +44,18 @@ void loop() {
    - Seleccionar pestaña de Librery Manager --> Add a New library --> Colocamos el nombre de libreria
 
   ![](https://github.com/DanielX834/PRACTICA-N2/blob/main/1Libreria.jpg?raw=true)
-
   
+3. Hacer la conexion de **DHT22** con la **ESP32** como se muestra en la siguente imagen.
+![](https://github.com/DanielX834/PRACTICA-N2/blob/main/2Conexion.jpg?raw=true)
+
+### Instrucciónes de operación
+
+1. Iniciar simulador.
+2. Visualizar los datos en el monitor serial.
+3. Colocar la temperatura y humedad dando *doble click* al sensor **DHT22**
+
+## Resultados
+
+Una vez terminado iniciamos simulacion y se observaran los valores dentro del monitor serial.
+
+
