@@ -1,4 +1,4 @@
-# PRACTICA-N2
+# PRACTICA CON SENSOR DHT22
 Este repositorio muestra como podemos programar una tarjeta  ESP32 con el sensor DHT22.
 ## Introducción
 ### Descripción
