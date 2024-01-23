@@ -57,5 +57,8 @@ void loop() {
 ## Resultados
 
 Una vez terminado iniciamos simulacion y se observaran los valores dentro del monitor serial.
+![](https://github.com/DanielX834/PRACTICA-N2/blob/main/3Resultados.jpg?raw=true)
 
+### Creditos
+Ingeniero. Daniel Armenta Ocampo
 
